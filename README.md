@@ -1,4 +1,4 @@
-# backpropagation
+# tutorial series on backpropagation
 These files belong to a tutorial series on backpropagation. You can find these on my medium blog. 
 https://medium.com/@hermandetest/backpropagation-algorithm-part-1-f3ca23bcaef1
 
